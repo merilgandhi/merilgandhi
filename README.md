@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
   
   <h3 align="center">Database & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql" />
   <h3 align="center">Mobile App Development</h3>
   <img src="https://skillicons.dev/icons?i=androidstudio"/>
    <h3 align="center">Tools</h3>
