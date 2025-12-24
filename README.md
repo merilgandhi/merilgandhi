@@ -17,9 +17,10 @@
 - *CPCT Score:* 87.19
 
 ---
+
  # 💫 About Me:
 I am a Frontend Developer with hands-on experience in React.js and modern web technologies, currently building scalable and user-friendly web applications. I have a strong foundation in JavaScript, HTML, CSS, and practical exposure to full-stack development concepts through real-world projects.<br><br>Currently pursuing BCA, I enjoy transforming ideas into responsive, efficient digital solutions and continuously improving my technical and problem-solving skills. I am eager to collaborate, learn, and contribute to impactful products in a professional development environment.
-
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meril_22_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merilgandhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meril.gandhi03@gmail.com) 
@@ -44,3 +45,4 @@ I am a Frontend Developer with hands-on experience in React.js and modern web te
 [![](https://visitcount.itsvg.in/api?id=merilgandhi&icon=4&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
