@@ -32,8 +32,6 @@ I am a Frontend Developer with hands-on experience in React.js and modern web te
 ![](https://nirzak-streak-stats.vercel.app/?user=merilgandhi&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=merilgandhi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=merilgandhi&theme=vision-friendly-dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
